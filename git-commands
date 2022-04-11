@@ -1,7 +1,23 @@
-git status.
+git clone https://github.com/tejaswichowdhary/batch57.git
+
+ls
+
+cd batch57
+
+ls
+
+touch name
+
+git status
 
 git add .
 
 git commit -m "modified"
+
+git status
+
+git status
+
+git log
 
 git push
